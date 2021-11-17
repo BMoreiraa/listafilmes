@@ -8,5 +8,5 @@ void main(){
     home: MyApp(),
 ));
 //alteração teste do github
-//linha de comando
+// linha de comoando falhou
 }
