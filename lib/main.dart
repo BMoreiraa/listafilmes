@@ -7,4 +7,6 @@ void main(){
     debugShowCheckedModeBanner: false,
     home: MyApp(),
 ));
+//alteração teste do github
+//linha de comando
 }
